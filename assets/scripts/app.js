@@ -11,8 +11,8 @@ const Portfolio = function() {
 				text: "javascript",
 				weight: 14
 			}, {
-				text: "jBootstrap",
-				weight: 3
+				text: "Bootstrap",
+				weight: 9
 			}, {
 				text: "programming",
 				weight: 7
@@ -23,11 +23,14 @@ const Portfolio = function() {
 				text: "Wordpress",
 				weight: 9
 			}, {
-				text: "",
+				text: "React Js",
 				weight: 15
 			}, {
-				text: "",
-				weight: 7
+				text: "Node Js",
+				weight: 13
+			},{
+				text: "Mongo DB",
+				weight: 13
 			}
 		];
 		return words;
